@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "jupyter notebook 변환하기!"
+title:  "Tackle the Titanic dataset"
 categories: coding
 tag: [python, blog, jekyll]
 toc: true
